@@ -1,2 +1,2 @@
-# Wordle-Clone-
+# Wordle-Clone
 This is a wordle clone 
